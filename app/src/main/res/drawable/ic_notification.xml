@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Bell icon: A much simpler path -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M12,2C10.34,2 9,3.34 9,5C9,5.91 9.34,6.69 9.93,7.07L12,8.75L14.07,7.07C14.66,6.69 15,5.91 15,5C15,3.34 13.66,2 12,2ZM12,20C10.89,20 10,19.11 10,18H14C14,19.11 13.11,20 12,20ZM18,16H6V10H18V16Z"/>
+</vector>
